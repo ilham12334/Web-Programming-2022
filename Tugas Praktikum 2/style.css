@@ -1,0 +1,169 @@
+.body {
+    margin: 0px; padding: 0px; font-family: monospace; 
+    }
+
+.nav { 
+    background-color: #92dbd2; padding: 25px
+    }
+
+.div1 {
+    display: flex; justify-content: space-between
+}
+
+.div2 {
+    display: flex
+}
+
+.h1 {
+    margin: 0px; padding: 10px
+}
+
+.atas {
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+}
+
+.div3 {
+    padding: 10px
+} 
+
+.main {
+    padding: 25px
+}
+
+.div4 {
+    display: flex; justify-content: space-between; gap: 25px
+}
+
+.div5 {
+    width: 70%
+}
+
+.div6 {
+    display: flex; flex-direction: column
+}
+
+.dive7 {
+    display: flex
+}
+
+.div8 {
+    margin: 20px 20px
+}
+
+.h2 {
+    margin: -5px
+}
+
+.div9 {
+    display: flex; justify-content: space-between
+}
+
+.div10 {
+    display: flex; flex-direction: column
+}
+
+.div11 {
+    display: flex; flex-direction: column
+}
+.div12 {
+    display: flex
+    justify-content: space-between;
+    margin-top: 10px
+}
+
+.div13 {
+    display: flex; flex-direction: column
+}
+
+.div14 {
+    display: flex
+}
+
+.aside {
+    width: 30%
+}
+
+.div15 {
+    background-color: lightgray; padding: 1px 25px
+}
+
+.div16 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.div17 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.div18 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.div19 {
+    width: 100%
+}
+
+.input {
+    width: 70%" type="text
+}
+
+.button {
+    background-color: color: white
+}
+
+.div20 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.div21 {
+    margin: 10px 0px
+}
+
+.pooter {
+    background-color: #92dbd2; padding: 25px
+}
+
+.div22 {
+    display: flex; justify-content: space-between
+}
+
+.div23 {
+    display: flex
+}
+
+.h3 {
+    margin: 0px; padding: 0px
+}
+
+.ul {
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    list-style: none;
+    margin: 5px;
+}
+
+.a {
+    margin: 0
+}
+
+.div24 {
+    "margin-top: 10px
+}
+
+.input2 {
+    background-color: red; color: white
+}
