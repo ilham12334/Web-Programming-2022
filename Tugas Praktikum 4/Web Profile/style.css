@@ -1,0 +1,202 @@
+#body {
+    width: 80%;
+    margin: auto;
+}
+
+#nav {
+    background-color: rgb(129, 119, 119);
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+}
+
+#atas {
+    margin-top: auto;
+    display: inline-flex;
+    align-items: center;
+}
+
+#atasatu {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    margin-right: 10px;
+}
+
+#AAA {
+    align-items: center;
+    width: 70%;
+    margin-left: 20px
+}
+
+.BBB {
+    display: inline-flex;
+    list-style: none;
+    float: left;
+}
+
+.A {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#CCC {
+    float: right;
+    align-items: center;
+    display: flex
+}
+
+#input {
+    margin-right: 5px;
+}
+
+#DDD {
+    display: flex;
+}
+
+#EEE {
+    margin-left: 10px;
+}
+
+#FFF {
+    display: flex;
+    margin-top: 40px;
+    min-height: 700px;
+}
+
+#GGG {
+    width: 70%;
+}
+
+#HHH {
+    display: flex;
+    align-items: center;
+}
+
+#III {
+    line-height: 30px;
+    margin-left: 15px;
+    align-items: center;
+}
+
+#JJJ {
+    margin-right: 10px;
+    border-top: 2px gray solid;
+    border-bottom: 2px gray solid;
+}
+
+#KKK {
+    border-bottom: 2px gray solid;
+    margin-right: 10px;
+}
+
+.LLL {
+    width: 50px;
+}
+
+#MMM {
+    height: 285px;
+    background-color: rgb(129, 119, 119);
+    width: 30%;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#NNN {
+    width: 100%;
+    line-height: 30px;
+}
+
+.OOO {
+    width: 60%;
+}
+
+.PPP {
+    text-align: right;
+}
+
+#QQQ {
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+    margin-bottom: 20px;
+}
+
+#RRR {
+    height: 30px;
+    width: 61%;
+}
+
+#SSS {
+    margin-left: 5%;
+    width: 30%;
+    height: 32px;
+    padding: 5px;
+    background-color: lavender;
+    color: gray;
+    border: 1px solid gray;
+}
+
+#TTT {
+    width: 100%;
+}
+
+#UUU {
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: flex;
+    align-items: center;
+}
+
+#VVV {
+    margin-top: auto;
+    align-items: center;
+    width: 10%;
+}
+
+#WWW {
+    display: flex;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+
+.XXX {
+    margin-right: 10px;
+}
+
+#YYY {
+    align-items: center;
+    width: 76%;
+}
+
+#ZZZ {
+    float: right;
+    align-items: center;
+    text-align: right;
+}
+
+#AAB {
+    text-align: right;
+    margin-right: 25px;
+}
+
+#AAC {
+    float: right;
+    align-items: center;
+    display: flex;
+}
+
+#AAD {
+    height: 30px;
+}
+
+#AAE {
+    background-color: gray;
+    color: white;
+    height: 30px;
+    font-weight: 500;
+}
